@@ -24,14 +24,12 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Pricing%20%26%20Work-blueviolet?style=for-the-badge)](https://discord.gg/vRvJSvdnCG)
 
 ---
----
 
 ### 💬 Quote
 
 > "Unknown. Unnamed. Unmatched." 🌑  
 > "Power is not measured by the fear it inspires... but by the peace it can command."
 
----
 ---
 
 ### 📊 GitHub Stats
