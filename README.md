@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 - 🔫 I enjoy making **gun systems** and **UI frameworks**
-- ❌ I don’t like to do vehicle systems.
+- ❌ I don’t like to do vehicle systems
 - 🧩 I work with **Luau** in Roblox Studio
 - 📁 I also know some **TypeScript, JavaScript, and C#**
 - 🤝 Open for commissions and scripting projects
@@ -22,16 +22,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bara3h&show_icons=true&theme=radical" alt="Bara3h's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gado7h&show_icons=true&theme=radical" alt="gado7h's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bara3h&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gado7h&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🔗 Contact
 
-[![Discord](https://img.shields.io/badge/Discord-Bara3h%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1244725995718840402)
+[![Discord](https://img.shields.io/badge/Discord-Bara3h%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1244725995718840402)  
 [![YouTube](https://img.shields.io/badge/YouTube-My_Dev_Videos-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Pricing%20%26%20Work-blueviolet?style=for-the-badge)](#)
 
@@ -39,8 +39,8 @@
 
 ### 🔥 Fun Tools
 
-![Profile Views](https://komarev.com/ghpvc/?username=Bara3h&color=blueviolet)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bara3h&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=gado7h&color=blueviolet)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gado7h&layout=compact&theme=radical)
 
 ---
 
@@ -56,4 +56,3 @@
 
 > "Unknown. Unnamed. Unmatched." 🌑  
 > _— Bara3h_
-
