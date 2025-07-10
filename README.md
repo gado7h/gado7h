@@ -20,7 +20,7 @@
 ### 🔗 Contact
 
 [![Discord](https://img.shields.io/badge/Discord-.edash%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1244725995718840402)  
-[![YouTube](https://img.shields.io/badge/YouTube-My_Dev_Videos-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gdo7h)  
+[![YouTube](https://img.shields.io/badge/YouTube-My_Dev_Videos-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gdo7a)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Pricing%20%26%20Work-blueviolet?style=for-the-badge)](https://discord.gg/vRvJSvdnCG)
 
 ---
